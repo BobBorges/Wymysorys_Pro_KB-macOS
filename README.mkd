@@ -1,0 +1,29 @@
+Wymysorys Pro Keyboard layout
+=============================
+* Wymysorys pro keyboard layout for macOS systems
+* Author: Robert Borges
+* Date: 20190304
+* Version 1.0
+* license: [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
+
+About
+-----
+This is a keyboard layout created for working with Wymsorys where one regularly needs the ȧ & Ȧ (U+0027, U+0226) characters. Wymysorys uses most special characters from Polish, but also letters like ö, which at the time I started working with the language wasn't in my Polish keyboard. So for single words, I found myself switching between English and Polish keyboard layouts, while still needing to open up the character pallet for the ȧ. Since this is an overwhelming pain in the ass, I created a layout for the (macOS) computer I was using at the time. The macOS Wymysorys Pro layout was initially inspired by Bartek Chromik's layout for windows machines; I designed the layout for macOS on the basis of the Polish pro layout. This layout should be suitable for writing most European languages with a Latin orthography, but is certain to meet all your Wymysorys, Polish, and English needs.
+
+Here's the layout:
+
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/open.tiff "Open Keys")
+
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/shift.tiff "Shift")
+
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/alt.tiff "Alt")
+
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/alt-shift.tiff "Alt+Shift")
+
+Installation
+------------
+There are two options for the install:
+
+1. Download the `.dmg`, mount it, and dag/drop the WymPro bundle into the `/Library/Keyboard Layouts` folder (as of macOS 10.12). Reboot and `add` the layout in the System Keyboard Preferences.
+
+2. Download the WymPro bundle directly and drop it into the `/Library/Keyboard Layouts` folder (as of macOS 10.12). Reboot and `add` the layout in the System Keyboard Preferences.

@@ -2,7 +2,7 @@ Wymysorys Pro Keyboard layout
 =============================
 * Wymysorys pro keyboard layout for macOS systems
 * Author: Robert Borges
-* Date: 20190304
+* Date: 20190305
 * Version 1.0
 * license: [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -12,13 +12,13 @@ This is a keyboard layout created for working with Wymsorys where one regularly 
 
 Here's the layout:
 
-![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/open.tiff "Open Keys")
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/open.png "Open Keys")
 
-![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/shift.tiff "Shift")
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/shift.png "Shift")
 
-![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/alt.tiff "Alt")
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/alt.png "Alt")
 
-![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/alt-shift.tiff "Alt+Shift")
+![alt text](https://github.com/BobBorges/Wymysorys_pro_KB-macOS/blob/master/alt-shift.png "Alt+Shift")
 
 Installation
 ------------
